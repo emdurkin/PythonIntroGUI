@@ -13,6 +13,7 @@ GPS_list=['LPelTilt','LHipFlex','LKneeFlex','LAnkDors',
            'RHipFlex','RKneeFlex','RAnkDors',
            'RHipAbd','RHipRot','RFootProg']
 
+#experimenting with Git woo 
 
 class State:
     patient = []
